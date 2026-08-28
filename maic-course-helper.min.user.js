@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         MAIC 课程进度助手
 // @namespace    local.maic-course-helper
-// @version      0.1.3
-// @description  缓存课程进度；总开关下持续推进 PPT 课件（+10s/下一页）与视频（拖至结尾自然播完），测验始终留给用户。
+// @version      0.1.4
+// @description  MAIC 课程进度助手：缓存课程与进度，用一个总开关自动推进课件和视频；测验需手动完成。
 // @match        https://www.maic.tsinghua.edu.cn/*
 // @updateURL    https://raw.githubusercontent.com/canxin121/maic-course-helper-public/main/maic-course-helper.min.user.js
 // @downloadURL  https://raw.githubusercontent.com/canxin121/maic-course-helper-public/main/maic-course-helper.min.user.js
